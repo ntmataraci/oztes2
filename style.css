@@ -14,7 +14,7 @@ a{
     gap:1rem;
     transition: all 1s linear;
     border:1px solid black;
-    fill:inherit;
+    fill:#b1aeae;
 }
 
 a:hover{
